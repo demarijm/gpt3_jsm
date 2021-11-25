@@ -16,7 +16,7 @@ const Menu = () => (
 const SignIn = () => (
     <>
     <p>Sign in</p>
-    <button type="button">Sign Up</button>
+    <button type="button">Apply</button>
     </>
 )
 
